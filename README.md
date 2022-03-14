@@ -1,5 +1,5 @@
 # web-service-gin
-Learning Resources from Official Go Documentation: [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin) 
+✅Done. Learning Resources from Official Go Documentation: [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin) 
 
 ### Next learning:
 - [Effective Go](https://go.dev/doc/effective_go)
