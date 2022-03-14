@@ -18,6 +18,7 @@ func getAlbums(c *gin.Context) {
 }
 // postAlbums adds an album from JSON received in the request body.
 func postAlbums(c *gin.Context) {
+	// instansiasi baru dari kelas album
 	var newAlbum album
 
 	// Call BindJSON to bind the receiced JSON to newAlbum.
