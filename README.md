@@ -1,4 +1,6 @@
 # web-service-gin
+Built REST API web services using Golang with Gin Framework. 
+
 ✅Done. Learning Resources from Official Go Documentation: [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin) 
 
 ### Next learning:
